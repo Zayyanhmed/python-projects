@@ -1,58 +1,63 @@
-# Web Scraping: World's Largest Companies by Revenue
+# Python Projects
 
-## Project Overview
+## Overview
 
-This project demonstrates how to collect structured data from a public
-webpage using Python. The dataset is sourced from Wikipedia's list of
-the world's largest companies by revenue.
+This repository contains a collection of Python projects developed to
+build practical programming skills and explore real-world applications
+of Python. The projects cover file management, basic data analysis,
+and web scraping.
 
-The project uses web-scraping techniques to retrieve webpage content,
-extract tabular data, and prepare the data for further analysis.
+## Projects
 
-## Objectives
+### 1. Web Scraping — World's Largest Companies by Revenue
 
-- Retrieve webpage content using Python.
-- Understand how HTML tables organise information.
-- Extract structured tabular data from a webpage.
-- Load extracted data into a Pandas DataFrame.
-- Prepare data for potential analysis and visualisation.
+A web-scraping project that extracts company revenue data from Wikipedia
+using Python. The project demonstrates how to retrieve webpage content,
+parse HTML, and collect structured tabular data for further analysis.
 
-## Tools & Technologies
+**Technologies:** Python, Requests, BeautifulSoup, Pandas, Jupyter Notebook
 
-- Python
-- Requests
-- BeautifulSoup
-- Pandas
-- Jupyter Notebook
+**Key Skills:** Web Scraping, HTML Parsing, Data Extraction, DataFrames
 
-## Data Source
+**Data Source:** [Wikipedia — List of Largest Companies by Revenue](https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue)
 
-Wikipedia — List of largest companies by revenue
+---
 
-https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue
+### 2. File Sorter
 
-## Project Workflow
+A Python automation project that organises files into designated
+folders based on their file types. It demonstrates how Python can
+simplify repetitive file-management tasks.
 
-1. Retrieve the webpage using Python Requests.
-2. Parse the HTML content using BeautifulSoup.
-3. Extract the relevant company revenue table using Pandas.
-4. Load the extracted data into a DataFrame for inspection.
+**Technologies:** Python
 
-## Key Skills Demonstrated
+**Key Skills:** File Handling, Automation, Directory Management
 
-- Web scraping
-- HTML parsing
-- Data extraction
-- DataFrames and tabular data handling
-- Python data collection workflows
+---
 
-## Files
+### 3. BMI Calculator
 
-- `Web_Scraping_and_Pandas.ipynb` — Jupyter Notebook containing the project code.
+A Python project that calculates Body Mass Index (BMI) using a user's
+height and weight. It demonstrates basic calculations, user input,
+and conditional logic.
 
-## Future Improvements
+**Technologies:** Python
 
-- Clean and standardise column names.
-- Inspect and handle missing values.
-- Export the extracted data to CSV.
-- Analyse and visualise company revenue data.
+**Key Skills:** Variables, User Input, Arithmetic Operations, Conditional Logic
+
+---
+
+## Technologies & Skills
+
+- Python fundamentals
+- Web scraping and data extraction
+- Data handling with Pandas
+- File and directory management
+- Basic calculations and conditional logic
+- Automation
+
+## Purpose
+
+These projects represent my ongoing development of Python programming
+skills, with a focus on practical applications, automation, and data
+handling.
