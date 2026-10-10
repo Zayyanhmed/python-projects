@@ -75,30 +75,6 @@ conditional logic, and output formatting.
 - **Core Concepts:** Variables, loops, functions, conditional logic, 
   and problem-solving
 
-## Repository Structure
-
-python-projects/
-│
-├── exploratory-data-analysis-pandas/
-│   ├── README.md
-│   └── exploratory_data_analysis.ipynb
-│
-├── amazon-web-scraper/
-│   ├── README.md
-│   └── amazon_web_scraper.ipynb
-│
-├── file-sorter/
-│   ├── README.md
-│   └── file_sorter.py
-│
-├── bmi-calculator/
-│   ├── README.md
-│   └── bmi_calculator.py
-│
-└── README.md
-
-*Note: The structure above is illustrative. File and folder names 
-should match the actual contents of the repository.*
 
 ## Purpose
 
